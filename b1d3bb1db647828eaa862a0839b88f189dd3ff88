@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f7f92e5e_26b18dcd",
+        "filename": "rpmbuild.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 186
+      },
+      "writtenOn": "2019-05-08T21:02:28Z",
+      "side": 1,
+      "message": "The spec should have a copyright header. Here is an example: https://gerrit.akraino.org/r/gitweb?p\u003dta/caas-kubernetes.git;a\u003dblob;f\u003dcaas-kubernetes.spec;h\u003dbeee7b5ef3e3e2336635cfe559e9129d636e942c;hb\u003drefs/heads/master",
+      "revId": "b1d3bb1db647828eaa862a0839b88f189dd3ff88",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": false
+    }
+  ]
+}
